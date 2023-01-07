@@ -10,7 +10,9 @@
 > 本文由B站up主百百川，整理分享。 https://space.bilibili.com/150478041  
   
 > 为了更方便文字内容传输，和便于后期更新维护，于是在gitee和GitHub创建了文章！  
-> （视频无法修改，但本文一直在更新，视频的方法已经过时了，请以视频置顶/简介/本文为准。并且在我分享的文件通常附带使用说明）
+> 若有问题，尽量在B站私信我，GitHub/gitee 的消息我一般看不到。  
+>  
+> （视频说的方法已过时，但本文一直在更新，请以本文为准。）
 
 
 ---
@@ -40,7 +42,6 @@ https://www.aliyundrive.com/s/ntQBKhJAJAx
 
 ---
 
-![4QO5DWIS8KC853NK09TC.jpg](https://s1.imagehub.cc/images/2022/10/30/4QO5DWIS8KC853NK09TC.jpg)
 
 ---
 ## 假如分享的全部失效，我应该怎么寻找红警资源？
@@ -50,8 +51,8 @@ https://www.aliyundrive.com/s/ntQBKhJAJAx
 3. 虽然红警之家这个网站口碑不好，发布有争议/未经允许的资源，和有“高速下载”的坑，但是单纯看游戏安装包下载，你能避开高速的坑，那里仍然可以算是一个备用的下载选择。  
 4. 虽然我不鼓励送钱买非正版游戏，但是如果你真的菜、没办法，可以去淘宝/拼多多，花几块钱也能让他们帮你发链接，或者再多花一点让他们帮你远程。  
 我的教程都写成这样了，啰嗦的跟个鬼一样，你还是不会那我也没办法了，花小钱省时间精力也可以是一个选择。  
-（不要信那些群里面私信你说要给你付费远程的人，别信。去淘宝拼多多至少能保障你不被骗）  
 
+- 不要信那些群里面私信你说要给你付费远程的人，别信。去淘宝拼多多至少能保障你不被骗  
 - 未完待续...（有其他更便捷的方法也可以在B站私信我，我会更新在这上面）
 
 ---
@@ -63,11 +64,11 @@ https://www.aliyundrive.com/s/ntQBKhJAJAx
 打补丁之后，**严禁设置** 兼容性、-win窗口化、简化色等等，具体见使用说明。  
 
 > 我分享的补丁在上面的天翼网盘链接里面，可以找到补丁压缩包+使用说明   
-> 或者在Gitee发行版里下载（在页面底部）[链接https://gitee.com/gtx750ti/bbc/releases](https://gitee.com/gtx750ti/bbc/releases)
+> 或者在Gitee发行版里下载[【链接】https://gitee.com/gtx750ti/bbc/releases](https://gitee.com/gtx750ti/bbc/releases) （在页面底部）
 > 
 > [补丁的官方 GitHub 开源链接](https://github.com/CnCNet/cnc-ddraw)  
 > [补丁官方GitHub的releases发行版下载链接，最最新版 cnc-ddraw.zip](https://github.com/CnCNet/cnc-ddraw/releases)  
-> 解压复制到 游戏目录，最新版补丁自带exe窗口程序的设置界面，具体使用方法请参考开源官方写的自述说明（看不懂英文请自行翻译）  
+> 解压复制到 游戏目录，最新版补丁自带exe程序的设置界面，自行修改，更具体的用法请参考开源官方写的自述说明（看不懂英文的同学请自行翻译）  
 > 
 > 我分享出来的补丁文件都不是最新版的，是1.3.4版，实测效果还OK，若有其它问题可以尝试最新版，  
 > 因为我不确定最新版表现如何，所以不同版本的区别可以自行测试。  
@@ -148,9 +149,6 @@ emmm, 不可以，或者不怎么可以，因为红警是X86架构的游戏，�
 我的B站主页 https://space.bilibili.com/150478041  
 
 
----
-
-[![3.3.md.jpg](https://s1.imagehub.cc/images/2022/11/17/3.3.md.jpg)](https://www.imagehub.cc/image/Jxa6KO)
 
 ---
 > 更新日志：（倒序）  
